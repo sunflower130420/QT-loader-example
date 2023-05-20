@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/arrow-down.svg</file>
+        <file>icons/arrow-down-left.svg</file>
+        <file>icons/Background_cheat.png</file>
+        <file>icons/Background_Login.png</file>
+        <file>icons/Background_Logout.png</file>
+        <file>icons/Raw.png</file>
+        <file>icons/Raw.svg</file>
+        <file>icons/x.svg</file>
+        <file>icons/wp8019816-future-ultra-hd-wallpapers.jpg</file>
+    </qresource>
+</RCC>
